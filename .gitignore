@@ -1,0 +1,9 @@
+# Do not store hidden files and directories, inclding .idea project
+.*
+.iml
+.idea
+# Do not store anything starting with _
+_*
+
+# Do not store .class files
+*.class
