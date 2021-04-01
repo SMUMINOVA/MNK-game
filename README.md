@@ -3,6 +3,6 @@ An m,n,k-game is an abstract board game in which two players take turns in placi
 
 m,n,k-games are mainly of mathematical interest. One seeks to find the game-theoretic value, the result of the game with perfect play. This is known as solving the game.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tic-tac-toe_5.png/220px-Tic-tac-toe_5.png
+![image](https://user-images.githubusercontent.com/59757128/113331595-978dbe80-9339-11eb-9c52-8183af078c1b.png)
 
 An 11,10,5 game
